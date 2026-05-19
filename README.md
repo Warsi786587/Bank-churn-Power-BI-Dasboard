@@ -28,3 +28,5 @@ This power BI dashboard analyzes customer churn patterns in the banking sector.
 - Dataset (.xlsx)
 - Dashboard Screenshot
 ## Dashboard Preview
+
+C:\Users\Warsi\Downloads\Screen shot of bank churn.png
