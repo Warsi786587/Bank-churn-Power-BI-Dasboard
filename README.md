@@ -30,3 +30,15 @@ This power BI dashboard analyzes customer churn patterns in the banking sector.
 ## Dashboard Preview
 
 ![Dashboard](Bank-churn.png.png)
+
+## Dataset Preview
+
+The dataset used in this project contains customer banking information including account balance, credit score, and churn status.
+
+## Business Problem 
+
+To analyze why customers are leaving tha bank and identify key churn factors. 
+
+## Final Conclusion
+
+This dashboard helps the bank reduce customer churn by identifying high-risk customers early.
